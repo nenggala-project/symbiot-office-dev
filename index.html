@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Symbiot Office Builds</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <main class="container">
+    <h1>Symbiot Office Builds</h1>
+    <p class="subtitle">
+      Daftar build alpha terbaru untuk tester. Klik versi untuk mengunduh APK.
+      Maksimal 5 build terbaru ditampilkan.
+    </p>
+    <p class="issue-link">
+      Menemukan masalah?
+      <a href="https://github.com/nenggala-project/symbiot-office-dev/issues/new" target="_blank" rel="noopener">
+        Buka issue di GitHub →
+      </a>
+    </p>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Version</th>
+            <th>Size</th>
+            <th>Published</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody id="builds-list">
+          <tr><td colspan="4" class="state">Loading…</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <footer>
+      <a href="https://github.com/nenggala-project/symbiot-office-dev" target="_blank" rel="noopener">Repository</a>
+      <span class="dot">·</span>
+      <a href="latest.json">latest.json</a>
+    </footer>
+  </main>
+  <script src="assets/script.js"></script>
+</body>
+</html>

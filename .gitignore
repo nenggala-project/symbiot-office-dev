@@ -1,0 +1,5 @@
+.claude
+files/
+*.apk
+.bin/
+.DS_Store
