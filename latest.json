@@ -1,0 +1,21 @@
+{
+  "latest": {
+    "version": "1.0.229",
+    "tag": "v1.0.229-20260503-041927",
+    "filename": "symbiot-office-suite-1.0.229-alpha-e2b9744-master.apk",
+    "size": 175551733,
+    "published_at": "2026-05-03T04:19:15Z",
+    "download_url": "https://github.com/nenggala-project/symbiot-office-dev/releases/download/v1.0.229-20260503-041927/symbiot-office-suite-1.0.229-alpha-e2b9744-master.apk"
+  },
+  "builds": [
+    {
+      "version": "1.0.229",
+      "tag": "v1.0.229-20260503-041927",
+      "filename": "symbiot-office-suite-1.0.229-alpha-e2b9744-master.apk",
+      "size": 175551733,
+      "published_at": "2026-05-03T04:19:15Z",
+      "download_url": "https://github.com/nenggala-project/symbiot-office-dev/releases/download/v1.0.229-20260503-041927/symbiot-office-suite-1.0.229-alpha-e2b9744-master.apk"
+    }
+  ],
+  "generated_at": "2026-05-03T04:20:05Z"
+}
